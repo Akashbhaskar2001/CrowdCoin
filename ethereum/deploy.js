@@ -3,7 +3,7 @@ const { Web3 } = require("web3");
 const compiledFactory = require("./build/CampaignFactory.json");
 
 const provider = new HDWalletProvider(
-  "twice address spread extra glass extend indicate dilemma despair plastic faint version",
+  "",
   // remember to change this to your own phrase!
   "https://sepolia.infura.io/v3/8a6f5c6e63f94181a887388be985f20d"
   // remember to change this to your own endpoint!
